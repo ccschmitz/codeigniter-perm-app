@@ -40,7 +40,7 @@
 $autoload['packages'] = array();
 
 
-$autoload['sparks'] = array('perm/0.0.1');
+$autoload['sparks'] = array('perm/0.1.0');
 
 
 /*
